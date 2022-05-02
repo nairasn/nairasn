@@ -1,4 +1,4 @@
-### Olá, eu sou Naira Nascimento! 
+### Olá, eu sou Naira Nascimento! ❤️
 
 🎓 Dev em formação. 
 ⚡ 
