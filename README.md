@@ -1,7 +1,12 @@
-### Olá, eu sou Naira Nascimento! ❤️
+### Olá! Me chamo Naira Nascimento! ✨
 
-🎓 Dev em formação. 
-⚡ 
+⚡ Tenho 28 anos, nasci e moro em Salvador-BA. 
+🍉 Bacharel em Nutrição desde 2016.
+🎓 DEV EM FORMAÇÃO! 
+📚 Estudando Python, HTML, CSS e JS. 
+❤️ Atualmente apaixonada por Front-End, graças a um projeto inicial de uma turma de Back. 
+
+ 
 
 <div align="center">
   <a href="https://github.com/nairasn">
