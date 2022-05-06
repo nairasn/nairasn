@@ -4,7 +4,7 @@
 🍉 Bacharel em Nutrição desde 2016.<br>
 🎓 DEV EM FORMAÇÃO! <br>
 📚 Estudando Python, HTML, CSS e JS. <br>
-❤️ Atualmente apaixonada por Front-End, graças a um projeto inicial de uma turma de Back. <br>
+❤️ Atualmente apaixonada por Front-End. <br>
 
  <br>
 
