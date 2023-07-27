@@ -1,9 +1,8 @@
 ### Olá! Me chamo Naira Nascimento! ✨
 
-⚡ Tenho 28 anos, nasci e moro em Salvador-BA. <br>
-🍉 Bacharel em Nutrição desde 2016. <br>
-🎓 Em transição de carreira para a área de TI.   <br>
-📚 Focada dados, banco, análise, modelagem, extração.. <br>
+⚡ Salvador-BA. <br>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas. <br>
+📚 Focada em aprender. <br>
 
   ##
  
